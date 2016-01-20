@@ -1,0 +1,15 @@
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\TaskyAndroid.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\Mono.Android.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\mscorlib.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\System.Core.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\System.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\System.Xml.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\Tasky.Core.Anroid.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\System.ServiceModel.Internals.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\Mono.Data.Sqlite.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\System.Data.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\System.Numerics.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\System.Transactions.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\Mono.Data.Tds.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\TaskyAndroid\obj\Debug\assemblies\Mono.Security.dll

@@ -1,0 +1,14 @@
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.pdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.apk
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid-Signed.apk
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Android.csprojResolveAssemblyReference.cache
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.dll
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.pdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\android\bin\Tasky.Core.Anroid.apk
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\R.cs.flag
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\uploadflags.txt
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.dll.mdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll.mdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.dll.mdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll.mdb
