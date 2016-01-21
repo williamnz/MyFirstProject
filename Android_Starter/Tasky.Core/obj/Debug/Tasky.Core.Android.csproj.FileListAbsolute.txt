@@ -18,3 +18,13 @@ D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\
 D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll.mdb
 D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.dll.mdb
 D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll.mdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.dll.mdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll.mdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.dll.mdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll.mdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.dll.mdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll.mdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.dll.mdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll.mdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.dll.mdb
+D:\SelfStudy\MyFirstProject\MyFirstProject\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll.mdb

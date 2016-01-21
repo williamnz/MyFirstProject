@@ -3,8 +3,8 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="Tasky" android:debuggable="true" android:icon="@drawable/icon" android:name="mono.android.app.Application" android:allowBackup="true">
-    <activity android:icon="@drawable/icon" android:label="Tasky" android:name="md5518e139921edbb5f2e08edd47d81356f.HomeScreen" />
-    <activity android:label="TaskDetailsScreen" android:name="md5518e139921edbb5f2e08edd47d81356f.TaskDetailsScreen" />
+    <activity android:icon="@drawable/icon" android:label="Tasky" android:name="md5f2840f44f2dd038115643afaacfa427b.HomeScreen" />
+    <activity android:label="TaskDetailsScreen" android:name="md5f2840f44f2dd038115643afaacfa427b.TaskDetailsScreen" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.xamarin.samples.taskyandroid.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
